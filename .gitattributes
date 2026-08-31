@@ -1,0 +1,7 @@
+# Normalisasi akhir baris: semua file teks disimpan LF di repository
+* text=auto eol=lf
+
+# File Packet Tracer adalah biner, jangan pernah diubah git
+*.pkt binary
+*.pka binary
+*.pkz binary
