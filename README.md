@@ -37,6 +37,8 @@ Setiap folder `LAB n` memuat dua berkas:
 
 Modul Lab 1 sampai 5 mengulang bagian **Topologi utama** dan **Persiapan: konfigurasi alamat dasar** di bagian atas. Pengulangan ini disengaja agar tiap lab dapat dikerjakan mandiri tanpa membuka berkas lain.
 
+> **Perhatian — berkas .pkt belum sesuai modul.** `LAB 2.pkt` sampai `LAB 6.pkt` saat ini isinya identik satu sama lain, padahal Lab 4, 5, dan 6 menuntut topologi yang berbeda. Langkah membangun ulang tiap berkas, lengkap dengan daftar perangkat, port, dan tipe kabel, ada di **[PANDUAN-BUAT-PKT.md](PANDUAN-BUAT-PKT.md)**.
+
 ## Cara memakai
 
 1. Buka `LAB n.pkt` dengan Cisco Packet Tracer (versi 8.x atau lebih baru).
